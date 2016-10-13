@@ -1,0 +1,1 @@
+cmd_/home/yli/Programming/lab/driver/memory.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/yli/Programming/lab/driver/memory.ko /home/yli/Programming/lab/driver/memory.o /home/yli/Programming/lab/driver/memory.mod.o
